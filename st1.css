@@ -1,49 +1,33 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2113.2">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; min-height: 17.0px}
-  </style>
-</head>
-<body>
-<p class="p1">html,body {</p>
-<p class="p1">margin: 50px;</p>
-<p class="p1">border: 0px;</p>
-<p class="p1">}</p>
-<p class="p2"><br></p>
-<p class="p1">img {</p>
-<p class="p1">border: 0px;</p>
-<p class="p1">}</p>
-<p class="p2"><br></p>
-<p class="p1">#header{</p>
-<p class="p1">}</p>
-<p class="p2"><br></p>
-<p class="p1">#container{</p>
-<p class="p1">}</p>
-<p class="p2"><br></p>
-<p class="p1">#footer{</p>
-<p class="p1">}</p>
-<p class="p2"><br></p>
-<p class="p1">.text1{</p>
-<p class="p1">font-size: 12px;</p>
-<p class="p1">color: #000000;</p>
-<p class="p1">font-family:’Arial’,’Tahoma’, sans-serif;</p>
-<p class="p1">letter-spacing: 1px;</p>
-<p class="p1">margin: 40px;</p>
-<p class="p1">}</p>
-<p class="p2"><br></p>
-<p class="p1">.text2{</p>
-<p class="p1">font-size: 12px;</p>
-<p class="p1">color: #000000;</p>
-<p class="p1">font-family:’Arial’,’Tahoma’, sans-serif;</p>
-<p class="p1">letter-spacing: 1px;</p>
-<p class="p1">margin: 40px;</p>
-<p class="p1">}</p>
-</body>
-</html>
+html,body {
+margin: 50px;
+border: 0px;
+}
+ 
+img {
+border: 0px;
+}
+ 
+#header{
+}
+ 
+#container{
+}
+ 
+#footer{
+}
+ 
+.text1{
+font-size: 12px;
+color: #000000;
+font-family:’Arial’,’Tahoma’, sans-serif;
+letter-spacing: 1px;
+margin: 40px;
+}
+ 
+.text2{
+font-size: 12px;
+color: #000000;
+font-family:’Arial’,’Tahoma’, sans-serif;
+letter-spacing: 1px;
+margin: 40px;
+}
